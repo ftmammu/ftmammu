@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<p align="center">A passionate frontend developer from India<br><br>🌱 I’m currently learning Fullstack MERN<br><br>👯 I’m looking to collaborate on Frontend projects<br><br>🤝 I’m looking for help with Developers, Designers<br><br>💬 Ask me about Frontend development<br><br>📫 How to reach me mammuofficial007@gmail.com<br><br>📄 Know about my experiences https://ft-mammoo.github.io/My-resume/<br><br>⚡ Fun fact I am self learning</p>
+<p align="center">A passionate frontend developer from India<br><br>🌱 I’m currently learning Fullstack MERN<br><br>👀 I’m interested in finding solutions to real world problems.<br><br>🤝 I’m looking to collaborate on projects that contribute to solve real world problems<br><br>💬 Ask me about Frontend development<br><br>📫 How to reach me mammuofficial007@gmail.com<br><br>📄 Know about my experiences https://ft-mammoo.github.io/My-resume/<br><br>⚡ Fun fact I am self learning<br><br>💪 I thrive on coding challenges — they’re the best way to level up my skills and creativity.</p>
 
 ###
 
