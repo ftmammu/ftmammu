@@ -7,10 +7,10 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/ft.mammoo/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"  /></a>
-  <a href="https://www.linkedin.com/in/ft-mammoo/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="Linkedin"  /> </a>
-  <a href="https://stackoverflow.com/users/22840567/ft-mammoo?tab=profile"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow"  /> </a>
-  <a href="https://x.com/ftmammoo"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="X.com"  /> </a>
+  <a href="https://www.instagram.com/ft.mammoo/"> <img src="/Icons/instagram-icon.svg" width="52" height="40" alt="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  /></a>
+  <a href="https://www.linkedin.com/in/ft-mammoo/"> <img src="/Icons/linkedin-icon.svg" width="52" height="40" alt="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  /> </a>
+  <a href="https://stackoverflow.com/users/22840567/ft-mammoo?tab=profile"> <img src="/Icons/stackoverflow-icon.svg" width="52" height="40" alt="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg"  /> </a>
+  <a href="https://x.com/ftmammoo"> <img src="/Icons/x-media-icon.svg" width="52" height="40" alt="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"  /> </a>
 </div>
 
 ###
